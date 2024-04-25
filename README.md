@@ -1,2 +1,3 @@
 # Create-Spotify-Playlist
-Spotify Playlist using python(BeautifulSoup, Spotipy )
+Spotify Playlist using BeautifulSoup and Spotipy
+Automated Project
